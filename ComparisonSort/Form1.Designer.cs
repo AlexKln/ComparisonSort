@@ -97,7 +97,7 @@
             // 
             // btnHeapSort
             // 
-            this.btnHeapSort.Location = new System.Drawing.Point(114, 185);
+            this.btnHeapSort.Location = new System.Drawing.Point(233, 193);
             this.btnHeapSort.Name = "btnHeapSort";
             this.btnHeapSort.Size = new System.Drawing.Size(80, 33);
             this.btnHeapSort.TabIndex = 7;
@@ -107,7 +107,7 @@
             // 
             // btnQuickSort
             // 
-            this.btnQuickSort.Location = new System.Drawing.Point(114, 224);
+            this.btnQuickSort.Location = new System.Drawing.Point(233, 232);
             this.btnQuickSort.Name = "btnQuickSort";
             this.btnQuickSort.Size = new System.Drawing.Size(80, 33);
             this.btnQuickSort.TabIndex = 8;
@@ -117,7 +117,7 @@
             // 
             // btnInsertionSort
             // 
-            this.btnInsertionSort.Location = new System.Drawing.Point(114, 263);
+            this.btnInsertionSort.Location = new System.Drawing.Point(233, 271);
             this.btnInsertionSort.Name = "btnInsertionSort";
             this.btnInsertionSort.Size = new System.Drawing.Size(80, 33);
             this.btnInsertionSort.TabIndex = 9;
@@ -127,7 +127,7 @@
             // 
             // btnMergeSort
             // 
-            this.btnMergeSort.Location = new System.Drawing.Point(114, 302);
+            this.btnMergeSort.Location = new System.Drawing.Point(233, 310);
             this.btnMergeSort.Name = "btnMergeSort";
             this.btnMergeSort.Size = new System.Drawing.Size(80, 33);
             this.btnMergeSort.TabIndex = 10;
@@ -137,7 +137,7 @@
             // 
             // btnClear
             // 
-            this.btnClear.Location = new System.Drawing.Point(86, 368);
+            this.btnClear.Location = new System.Drawing.Point(206, 359);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(136, 42);
             this.btnClear.TabIndex = 11;
