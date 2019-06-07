@@ -46,7 +46,7 @@
             this.txtInput.Location = new System.Drawing.Point(153, 42);
             this.txtInput.Multiline = true;
             this.txtInput.Name = "txtInput";
-            this.txtInput.Size = new System.Drawing.Size(125, 24);
+            this.txtInput.Size = new System.Drawing.Size(371, 24);
             this.txtInput.TabIndex = 0;
             // 
             // lblInput
@@ -64,7 +64,7 @@
             this.txtOutput.Location = new System.Drawing.Point(153, 85);
             this.txtOutput.Multiline = true;
             this.txtOutput.Name = "txtOutput";
-            this.txtOutput.Size = new System.Drawing.Size(125, 24);
+            this.txtOutput.Size = new System.Drawing.Size(371, 24);
             this.txtOutput.TabIndex = 2;
             // 
             // lblSorted
@@ -92,7 +92,7 @@
             this.txtComparisons.Location = new System.Drawing.Point(153, 127);
             this.txtComparisons.Multiline = true;
             this.txtComparisons.Name = "txtComparisons";
-            this.txtComparisons.Size = new System.Drawing.Size(125, 24);
+            this.txtComparisons.Size = new System.Drawing.Size(371, 24);
             this.txtComparisons.TabIndex = 5;
             // 
             // btnHeapSort
@@ -149,7 +149,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(309, 450);
+            this.ClientSize = new System.Drawing.Size(537, 450);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.btnMergeSort);
             this.Controls.Add(this.btnInsertionSort);
